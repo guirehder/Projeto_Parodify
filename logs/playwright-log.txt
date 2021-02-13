@@ -1,0 +1,11 @@
+{"level":30,"time":"2021-02-13T00:20:58.062Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Listening on 50812"}
+{"level":30,"time":"2021-02-13T00:20:59.818Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T00:21:01.056Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-13T00:21:01.296Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changed active page"}
+{"level":30,"time":"2021-02-13T00:21:23.038Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-02-13T00:21:23.466Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T00:21:23.466Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-13T00:21:23.467Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changed active page"}
+{"level":30,"time":"2021-02-13T00:21:23.525Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T00:21:23.526Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-13T00:21:23.527Z","pid":16688,"hostname":"DESKTOP-63BV2R7","msg":"Changed active page"}
