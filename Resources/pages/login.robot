@@ -4,6 +4,7 @@ Documentation       Ações da página de login
 
 ***Keywords***
 Open Login Page
+    New Browser     ${browser}      ${headless}
     New Page        https://parodify.herokuapp.com/users/sign_in
    
 
